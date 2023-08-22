@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fe927caf.css",
-    "main.js": "/static/js/main.991def6d.js",
+    "main.js": "/static/js/main.4dd9ad21.js",
     "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
     "static/media/ideathon1.png": "/static/media/ideathon1.54efe58282d0fc4dc366.png",
     "static/media/badge2.png": "/static/media/badge2.36ed031f23016f25358f.png",
@@ -10,11 +10,11 @@
     "static/media/ideathon2.jpg": "/static/media/ideathon2.277ddfba053186b00a16.jpg",
     "index.html": "/index.html",
     "main.fe927caf.css.map": "/static/css/main.fe927caf.css.map",
-    "main.991def6d.js.map": "/static/js/main.991def6d.js.map",
+    "main.4dd9ad21.js.map": "/static/js/main.4dd9ad21.js.map",
     "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.991def6d.js"
+    "static/js/main.4dd9ad21.js"
   ]
 }
